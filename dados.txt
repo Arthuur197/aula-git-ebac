@@ -1,6 +1,6 @@
 Dados do aluno
 
--Primeiro Nome: Arthur Oliveira
+-Primeiro Nome: Arthur
 -Profissão: Dev Júnior
 -Cidade: Patos de Minas
 -O que faz nas horas vaga: Pratico esportes

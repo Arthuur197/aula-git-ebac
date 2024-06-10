@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Arthur
+-Profissão: Dev Júnior
+-Cidade: Patos de Minas
+-O que faz nas horas vaga: Pratico esportes
+-Feedback sobre o curso Qualidade de Software: Estou gostando bastante
+-Feedback sobre a plataforma de estudo da EBAC: Pode melhorar o play das aulas, as vezes tem que clicar varias vezes para começar
 
 Obrigado!!!
 
